@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Ijeoma Lawretta Emma-Ugulu
+### Hi there 👋 My name is Ijeoma Lawretta Daniel-Onuh
 Software Test Automation/QA Engineer
 
 Resourceful, self-motivated, results driven professional with over three years’ experience as a Software Quality Assurance Engineer, effective in analysing system specification and designing test scenarios to ensure compliance with specifications and documentations provided. Excellent in identifying and reporting bugs, collaborating with development teams, and designing tests to mitigate risks. I possess strong knowledge of SDLC, and experience in manual testing. I have knowledge of tools such as Postman.
